@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_set_alarm">Set alarm</string>
+</resources>
